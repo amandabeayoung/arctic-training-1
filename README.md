@@ -1,2 +1,2 @@
 # arctic-training
-ADC Training Test Repository
+Arctic Data Center Training Test Repository
